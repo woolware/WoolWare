@@ -14,13 +14,13 @@ import org.apache.commons.lang3.*;
 
 import java.awt.*;
 
-public class Gay extends Module {
+public class Transform extends Module {
     public EnumValue<mode> Mode = new EnumValue<>("Mode",mode.XD);
 
     private float FallStack;
 
-    public Gay() {
-        super("Gay", Category.VISUALS, new Color(0xA4A29E).getRGB());
+    public Transform() {
+        super("Transform", Category.VISUALS, new Color(0xA4A29E).getRGB());
     }
 
     @Handler

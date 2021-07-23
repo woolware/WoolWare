@@ -31,7 +31,7 @@ public class ModuleManager {
         registerMod(HUD.class);
         registerMod(AimAssist.class);
         registerMod(NoHurtCam.class);
-        registerMod(Gay.class);
+        registerMod(Transform.class);
         registerMod(UnStuck.class);
         registerMod(CopsNCrims.class);
         registerMod(FastLadder.class);
@@ -62,7 +62,6 @@ public class ModuleManager {
         registerMod(AntiFreeze.class);
         registerMod(ChestESP.class);
         registerMod(Detector.class);
-        registerMod(FemBoy.class);
         registerMod(KillSults.class);
         registerMod(AntiRetard.class);
         registerMod(AntiFire.class);

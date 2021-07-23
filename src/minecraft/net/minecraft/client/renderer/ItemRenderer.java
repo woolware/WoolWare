@@ -354,7 +354,14 @@ public class ItemRenderer
      */
     @SuppressWarnings("incomplete-switch")
 	public void renderItemInFirstPerson(float partialTicks) {
+    	
+    	   final SmallItems smallitems = (SmallItems) Wool.INSTANCE.getModuleManager().getModule("smallitems"); {
 
+    		   if (smallitems.isEnabled()) {
+
+               GlStateManager.translate(0.75, -0.15, -1);
+    		   }
+    	   }
 	
     {
         final Chams chams = (Chams) Wool.INSTANCE.getModuleManager().getModule("chams");
