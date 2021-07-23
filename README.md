@@ -1,15 +1,8 @@
-
-+ ADDED
-
-- REMOVED
-- 
-= IMPROVED
-
 PATCH NOTES:
 
-+ SmallItems
-- 2 Modules
-+ Transform
+ADDED > SmallItems
+REMOVED > 2 Modules
+ADDED > Transform
 
 
 
