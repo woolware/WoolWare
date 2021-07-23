@@ -1,8 +1,8 @@
 PATCH NOTES:
 
-ADDED > SmallItems
-REMOVED > 2 Modules
-ADDED > Transform
+(ADDED > SmallItems)
+(REMOVED > 2 Modules)
+(ADDED > Transform)
 
 
 
