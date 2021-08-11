@@ -3,10 +3,6 @@ package wool.ware.client.gui.account.system;
 
 import com.google.gson.JsonObject;
 
-/**
- * @author Xen for OhareWare
- * @since 8/6/2019
- **/
 public class Account {
     private String email, password, name;
     private boolean banned;
