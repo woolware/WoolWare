@@ -17,10 +17,7 @@ import java.net.Proxy;
 import java.util.UUID;
 
 
-/**
- * @author Xen for OhareWare
- * @since 8/6/2019
- **/
+
 public class AccountLoginThread extends Thread {
 
     private String email, password;
