@@ -5,11 +5,6 @@ import java.awt.*;
 
 import wool.ware.client.utils.value.Value;
 
-/**
- * made by Xen for OhareWare
- *
- * @since 7/21/2019
- **/
 public class ColorValue extends Value<Integer> {
 
     public ColorValue(String label, int value) {
