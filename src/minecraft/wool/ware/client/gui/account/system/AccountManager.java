@@ -8,10 +8,6 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.ArrayList;
 
-/**
- * @author Xen for OhareWare
- * @since 8/6/2019
- **/
 public class AccountManager {
     private ArrayList<Account> accounts = new ArrayList<>();
     private final Gson gson = new GsonBuilder().setPrettyPrinting().create();
