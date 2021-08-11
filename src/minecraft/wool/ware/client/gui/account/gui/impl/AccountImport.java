@@ -11,11 +11,6 @@ import java.awt.event.ActionListener;
 import java.io.BufferedReader;
 import java.io.FileReader;
 
-
-/**
- * @author Xen for OhareWare
- * @since 8/6/2019
- **/
 public class AccountImport extends JPanel implements ActionListener {
 
     public JButton openButton;
