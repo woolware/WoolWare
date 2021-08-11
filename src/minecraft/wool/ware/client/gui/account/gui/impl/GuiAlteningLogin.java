@@ -11,11 +11,6 @@ import org.lwjgl.input.Keyboard;
 import java.io.IOException;
 import java.util.Objects;
 
-
-/**
- * @author Xen for OhareWare
- * @since 8/6/2019
- **/
 public class GuiAlteningLogin extends GuiScreen {
     private GuiScreen previousScreen;
     public static AccountLoginThread thread;
