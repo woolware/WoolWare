@@ -11,10 +11,6 @@ import org.lwjgl.input.Keyboard;
 
 import java.io.IOException;
 
-/**
- * @author Xen for OhareWare
- * @since 8/7/2019
- **/
 public class GuiAddAlt extends GuiScreen {
     private GuiTextField email;
     private GuiPasswordField password;
